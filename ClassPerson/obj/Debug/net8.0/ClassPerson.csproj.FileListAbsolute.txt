@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\bin\Debug\net8.0\ClassPerson.exe
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\bin\Debug\net8.0\ClassPerson.deps.json
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\bin\Debug\net8.0\ClassPerson.runtimeconfig.json
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\bin\Debug\net8.0\ClassPerson.dll
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\bin\Debug\net8.0\ClassPerson.pdb
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ClassPerson.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ClassPerson.AssemblyInfo.cs
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ClassPerson.dll
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\refint\ClassPerson.dll
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ClassPerson.pdb
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ClassPerson.genruntimeconfig.cache
+C:\Users\encho\source\repos\ClassesDR\ClassPerson\obj\Debug\net8.0\ref\ClassPerson.dll

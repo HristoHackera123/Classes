@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\bin\Debug\net8.0\FamilyClass.exe
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\bin\Debug\net8.0\FamilyClass.deps.json
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\bin\Debug\net8.0\FamilyClass.runtimeconfig.json
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\bin\Debug\net8.0\FamilyClass.dll
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\bin\Debug\net8.0\FamilyClass.pdb
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\FamilyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\FamilyClass.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\FamilyClass.AssemblyInfo.cs
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\FamilyClass.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\FamilyClass.dll
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\refint\FamilyClass.dll
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\FamilyClass.pdb
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\FamilyClass.genruntimeconfig.cache
+C:\Users\encho\source\repos\ClassesDR\FamilyClass\obj\Debug\net8.0\ref\FamilyClass.dll
